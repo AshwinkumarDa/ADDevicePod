@@ -1,0 +1,6 @@
+framework module ADDevice {
+  umbrella header "ADDevice.h"
+
+  export *
+  module * { export * }
+}
